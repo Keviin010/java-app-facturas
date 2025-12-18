@@ -34,4 +34,3 @@ Proyecto realizado como parte del aprendizaje en Java, enfocado en reforzar la l
 
 Autor: Kevin R.
 
-Autor: Kevin Gómez
