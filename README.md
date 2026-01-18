@@ -3,6 +3,7 @@
 Aplicación básica de facturación desarrollada en Java para practicar los fundamentos de la Programación Orientada a Objetos (POO).
 
 ## Características
+
 - Gestión de facturas
 - Uso de clases, objetos y encapsulamiento
 - Arreglos de objetos
@@ -11,6 +12,7 @@ Aplicación básica de facturación desarrollada en Java para practicar los fund
 - Formateo de fechas
 
 ## Estructura del proyecto
+
 - Cliente
 - Producto
 - ItemFactura
@@ -18,11 +20,13 @@ Aplicación básica de facturación desarrollada en Java para practicar los fund
 - Clase principal de prueba
 
 ## Cómo ejecutar
+
 1. Clona el repositorio o descarga el proyecto
 2. Abre el proyecto en IntelliJ IDEA o cualquier IDE Java
 3. Ejecuta la clase principal con el método `main`.
 
 ## Conceptos aplicados
+
 - Programación Orientada a Objetos
 - Encapsulamiento
 - Composición de objetos
