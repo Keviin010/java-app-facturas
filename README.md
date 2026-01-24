@@ -1,6 +1,6 @@
 # Java App de Facturación
 
-Aplicación básica de facturación desarrollada en Java para practicar los fundamentos de la Programación Orientada a Objetos (POO).
+Aplicación básica de facturación desarrollada en Java para practicar los fundamentos de la Programación Orientada a Objetos(POO).
 
 ## Características
 
