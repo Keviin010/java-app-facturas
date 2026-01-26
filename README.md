@@ -36,5 +36,5 @@ Aplicación básica de facturación desarrollada en Java para practicar los fund
 ## Contexto
 Proyecto realizado como parte del aprendizaje en Java, enfocado en reforzar la lógica y los conceptos de POO.
 
-Autor: Kevin R.
+Autor: Kevin Royo
 
