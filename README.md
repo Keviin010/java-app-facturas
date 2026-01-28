@@ -17,7 +17,7 @@ Aplicación básica de facturación desarrollada en Java para practicar los fund
 - Producto
 - ItemFactura
 - Factura
-- Clase principal de prueba
+- Clase principal de prueba.
 
 ## Cómo ejecutar
 
