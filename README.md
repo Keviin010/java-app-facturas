@@ -21,8 +21,8 @@ Aplicación básica de facturación desarrollada en Java para practicar los fund
 
 ## Cómo ejecutar
 
-1. Clona el repositorio o descarga el proyecto
-2. Abre el proyecto en IntelliJ IDEA o cualquier IDE Java
+1. Clona el repositorio o descarga el proyecto.
+2. Abre el proyecto en IntelliJ IDEA o cualquier IDE Java.
 3. Ejecuta la clase principal con el método `main`.
 
 ## Conceptos aplicados
