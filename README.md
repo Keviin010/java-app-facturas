@@ -30,8 +30,8 @@ Aplicación básica de facturación desarrollada en Java para practicar los fund
 - Programación Orientada a Objetos
 - Encapsulamiento
 - Composición de objetos
-- Arreglos
-- Métodos y constructores
+- Arreglos.
+- Métodos y constructores. 
 
 ## Contexto
 Proyecto realizado como parte del aprendizaje en Java, enfocado en reforzar la lógica y los conceptos de POO.
