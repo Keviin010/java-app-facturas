@@ -13,10 +13,10 @@ Aplicación básica de facturación desarrollada en Java para practicar los fund
 
 ## Estructura del proyecto
 
-- Cliente
-- Producto
-- ItemFactura
-- Factura
+- Cliente.
+- Producto.
+- ItemFactura.
+- Factura.
 - Clase principal de prueba.
 
 ## Cómo ejecutar
