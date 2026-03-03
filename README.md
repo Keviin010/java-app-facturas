@@ -34,7 +34,7 @@ Aplicación básica de facturación desarrollada en Java.
 - Métodos y constructores. 
 
 ## Contexto
-Proyecto realizado como parte del aprendizaje en Java, enfocado en reforzar la lógica y los conceptos de POO.
+Proyecto realizado como parte del aprendizaje en Java.
 
 Autor: Kevin Royo
 
